@@ -12,6 +12,7 @@ The dataset was collected from Kaggle.com - [Vrinda Store Data](https://www.kagg
 
 ## Dashboard
 ![dashboard](https://github.com/PPriyadarsini/Excel-Projects/assets/42106958/7ba2fdc8-65e0-4dcf-80cb-451d3383f64d)
+The dashboard is interactive.
 
 ## Findings
 - The analysis revealed that the month of March saw the highest sales (~1.80 M).
